@@ -28,7 +28,6 @@ Bu çalışma sırasında ham veri (raw data) üzerinden anlamlı bilgi setleri 
 | **Grep (Regex)** | Belirli frekansların (Türksat 42.0E) ve imzaların (5D 00 00) tespiti. |
 | **Binwalk** | Firmware içindeki gizli dosya sistemlerinin ve sıkıştırma bloklarının (LZMA) analizi. |
 | **Python (Struct)** | Ham byte'ları insan tarafından okunabilir CSV formatına dönüştüren Parser yazımı. |
-| **.NET 8** | Veriyi manipüle edecek ve low-level write işlemleri yapacak editörün mimarisi. |
 
 ---
 
